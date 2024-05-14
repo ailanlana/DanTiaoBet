@@ -1,0 +1,5 @@
+name: DanTiaoBet
+version: '1.0.0'
+main: io.fntlv.dantiaobet.Main
+depend: [ Dantiao ]
+authors: [ FnTlv ]
